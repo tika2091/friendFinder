@@ -1,0 +1,35 @@
+
+*{
+	margin:0;
+	padding:0;
+	box-sizing: border-box;
+	}
+
+	body{
+		width:100%auto;
+		height:auto;
+		margin:auto;
+		font-family: Georgia;
+
+	}
+
+
+#container{
+  width:90%;
+	margin: auto;
+
+}
+.jumbotron{
+	height:300px;
+	border-radius: 10px;
+	padding: 20px;
+	padding-top:50px;
+
+}
+
+#welcome-bar{
+	height:60px;
+	font-size:400%;
+	font-weight:800;
+
+}
